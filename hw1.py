@@ -36,7 +36,7 @@ print (var_five)
 
 # 6. Create a tuple of five elements of different data types, assign it to a 
 # variable and print the tuple.
-car_tup = ('hondi',1,'ford',2,'chevy',3,'toyota',4,)
+car_tup = ('hondi',1,'ford',2,'chevy')
 print(car_tup)
 # 7. Use a built-in string method to *replace* all of the z characters 
 # with a string of 5 in the following variable and pring the result.
